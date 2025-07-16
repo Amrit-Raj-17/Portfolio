@@ -1,0 +1,25 @@
+.contact {
+  background-color: var(--section-bg);
+  color: var(--text-color);
+  text-align: center;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.contact h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.contact p {
+  margin: 10px 0;
+}
+
+.contact a {
+  color: var(--link-color);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.contact a:hover {
+  text-decoration: underline;
+}

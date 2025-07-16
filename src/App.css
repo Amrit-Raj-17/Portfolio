@@ -1,0 +1,46 @@
+/* Theme variables for dark mode */
+body.dark {
+  --bg-color: #121212;
+  --text-color: #ffffff;
+  --section-bg: #1e1e1e;
+  --card-bg: #2a2a2a;
+  --accent-color: #00e676;
+  --link-color: #80d8ff;
+}
+
+/* Theme variables for light mode */
+body.light {
+  --bg-color: #ffffff;
+  --text-color: #1f1f1f;
+  --section-bg: #f4f4f4;
+  --card-bg: #ffffff;
+  --accent-color: #00796b;
+  --link-color: #1565c0;
+}
+
+/* Global styles */
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: Arial, sans-serif;
+  margin: 0;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+section {
+  padding: 40px 20px;
+  background-color: var(--section-bg);
+  transition: background-color 0.3s ease;
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+html {
+  scroll-behavior: smooth;
+}
+/* Prevent horizontal scroll */
+body {
+  overflow-x: hidden;
+}

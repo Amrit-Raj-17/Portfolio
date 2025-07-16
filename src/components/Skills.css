@@ -1,0 +1,33 @@
+.skills {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.skills h2 {
+  margin-bottom: 20px;
+  font-size: 2rem;
+}
+
+.skills-tags {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.skill-badge {
+  background-color: var(--accent-color, #2196F3);
+  color: white;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: background-color 0.3s;
+}
+
+.skill-badge:hover {
+  background-color: #1976d2;
+}
