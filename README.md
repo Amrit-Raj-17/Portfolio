@@ -108,4 +108,8 @@ A comprehensive list of my technical skills, including programming languages, fr
 *   **Tools & DevOps**: Git, GitHub, Docker, Postman, Linux
 
 ### 📞 Contact
-Information on how to get in touch with me via Email, LinkedIn, GitHub, and X (Twitter).
+You can get in touch with me through:
+- **Email:** [amritrajt15@gmail.com](mailto:amritrajt15@gmail.com)
+- **LinkedIn:** [amrit raj thakur](https://www.linkedin.com/in/amrit-raj-thakur)
+- **GitHub:** [Amrit-Raj-17](https://github.com/Amrit-Raj-17)
+- **X (Twitter):** [@amritrajt15](https://x.com/amritrajt15)
