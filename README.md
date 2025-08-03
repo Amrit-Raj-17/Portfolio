@@ -3,7 +3,7 @@
 
 This repository contains the source code for my personal portfolio website. It is a single-page application built with React.js to showcase my projects, skills, and experience as a full-stack developer specializing in Java/Spring Boot and React.
 
-**[Live Demo](https://amrit-raj-17.github.io/Portfolio)**
+**[Live Demo](https://amrit-raj-17.github.io/Portfolio/)**
 
 ## ✨ Features
 
