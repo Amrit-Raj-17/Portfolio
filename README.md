@@ -110,6 +110,6 @@ A comprehensive list of my technical skills, including programming languages, fr
 ### 📞 Contact
 You can get in touch with me through:
 - **Email:** [amritrajt15@gmail.com](mailto:amritrajt15@gmail.com)
-- **LinkedIn:** [amrit raj thakur](https://www.linkedin.com/in/amrit-raj-thakur)
+- **LinkedIn:** [Amrit Raj Thakur](https://www.linkedin.com/in/amrit-raj-thakur)
 - **GitHub:** [Amrit-Raj-17](https://github.com/Amrit-Raj-17)
-- **X (Twitter):** [@amritrajt15](https://x.com/amritrajt15)
+- **X (Twitter):** [@Amrit Raj Thakur](https://x.com/AmritRajThakur1)
