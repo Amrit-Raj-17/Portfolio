@@ -138,9 +138,9 @@ fetch(url)
             <tr>
                 <td>${date}</td>
                 <td>${day}</td>
-                <td>${lunch || "-"}</td>
+                <td>${lunch ?? "-"}</td>
                 <td class="remark">${lunchRemark}</td>
-                <td>${dinner || "-"}</td>
+                <td>${dinner ?? "-"}</td>
                 <td class="remark">${dinnerRemark}</td>
             </tr>
         `;
